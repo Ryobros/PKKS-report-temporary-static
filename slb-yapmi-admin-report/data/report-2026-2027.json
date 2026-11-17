@@ -1,0 +1,16 @@
+{
+  "organization": "YAPMI",
+  "period": "2026–2027",
+  "lastUpdated": "2026-07-01",
+  "summary": [
+    { "label": "Indicators", "value": 4 },
+    { "label": "On track", "value": 2 },
+    { "label": "In progress", "value": 2 }
+  ],
+  "indicators": [
+    { "name": "Sample indicator A", "target": "100", "realized": "72", "status": "In progress" },
+    { "name": "Sample indicator B", "target": "50", "realized": "50", "status": "On track" },
+    { "name": "Sample indicator C", "target": "12", "realized": "8", "status": "In progress" },
+    { "name": "Sample indicator D", "target": "4", "realized": "4", "status": "On track" }
+  ]
+}
