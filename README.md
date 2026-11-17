@@ -1,2 +1,3 @@
 # PKKS-report-temporary-static
-web report temporary
+
+Static administrative report for YAPMI is in [`slb-yapmi-admin-report/`](./slb-yapmi-admin-report/).
